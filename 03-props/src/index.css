@@ -1,0 +1,22 @@
+.parent {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 300px;
+    width: 200px;
+    border: 1px solid rgb(180, 74, 74);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card img {
+    height: 100px;
+    width: 100px;
+}
+
